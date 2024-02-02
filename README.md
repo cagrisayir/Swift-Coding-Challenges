@@ -40,7 +40,11 @@ Write a function that accepts two String parameters, and returns true if they co
 
 
 ## Challenge #4 - Does one string contain another?
+<img width="909" alt="image" src="https://github.com/cagrisayir/Swift-Coding-Challenges/assets/44059539/1b23444e-6622-4b19-9492-7c0e4b7562dd">
+
 
 ## Challenge #5 - Count the characters
+<img width="914" alt="image" src="https://github.com/cagrisayir/Swift-Coding-Challenges/assets/44059539/2ecebd79-4843-464d-8f05-70a45b5a8976">
+
 
 ## Challenge #6 - Remove duplicate letters from a string
